@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Multiple FXML screens
+${licensePrefix} by Joren Vandeweyer
+<#if licenseLast??>
+${licenseLast}
+</#if>
